@@ -21,6 +21,6 @@ arts. 12, 13 e 27)
 7. evidencias/revisao_humana.md
 8. entrega/orientacao_inicial.md
 ## Repositório
-[Adicionar a URL após o push para o GitHub.]
+https://github.com/hinckelsoares-hub/caso-ficticio-chaleira.git
 ## Como executar
 Ler docs/prompts/consulta_rag.md e enviar para a IA somente os arquivos de apoio/.
